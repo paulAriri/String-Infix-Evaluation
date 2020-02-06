@@ -1,0 +1,4 @@
+﻿  CS321PaulAririAssignment1.cpp
+C:\Users\ariri\source\repos\CS321PaulAririAssignment1\CS321PaulAririAssignment1\CS321PaulAririAssignment1.cpp(60,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ariri\source\repos\CS321PaulAririAssignment1\CS321PaulAririAssignment1\CS321PaulAririAssignment1.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+  CS321PaulAririAssignment1.vcxproj -> C:\Users\ariri\source\repos\CS321PaulAririAssignment1\Debug\CS321PaulAririAssignment1.exe
